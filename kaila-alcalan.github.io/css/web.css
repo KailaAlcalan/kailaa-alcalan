@@ -1,0 +1,215 @@
+
+
+iframe{
+ width:480px;
+   height:321px;
+}
+
+body{
+margin: 0;
+padding: 0;
+width: 100%;
+background-color: black;
+}
+h1 {
+font-family:"Arvo";
+font-weight:normal;
+font-size: 60px;
+text-align: center;
+color: white;
+margin: 0;
+padding: 0;
+}
+h2 {
+font-family:"Arvo";
+font-weight: normal;
+font-size: 40px;
+text-align: center;
+color: #fff;
+margin: 0;
+padding: 0;
+}
+h3 {
+font-family: Oswald;
+font-weight: normal;
+font-size: 30px;
+text-align: center;
+margin: 5px 0;
+padding: 0;
+z-index: 1;
+position: relative;
+}
+h4 {
+font-family: Oswald;
+font-weight: normal;
+font-size: 20px;
+text-align: center;
+margin: 5px 0;
+padding: 0;
+z-index: 1;
+position: relative;
+}
+.center { margin: 0 auto; }
+.content{ margin: 0 auto; width: 960px; }
+.clear { clear: both; }
+/*#header {
+width: 100%;
+padding-bottom: 10%;
+background-color: grey;
+height: 99px;
+position: fixed;
+margin-top: 10px;
+}
+#nav {
+  width: 410px;
+  float: right;
+  margin-top: 20px;}
+#logo a {
+  color: #fff;
+  text-decoration: none;
+  float: left; font-size: 30px; margin-top: 20px; color: black; font-family:"Wellfleet"; font-weight: bold; }
+#nav ul{
+
+list-style: none;
+display: block;
+margin: 0 auto;
+list-style: none;
+}
+#nav li{
+margin-top: 9px;
+float: left;
+padding-left: 21px;
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color: black;}*/
+
+.words {
+font-family: 'Goudy Bookletter 1911', serif;
+font-weight: normal;
+font-size: 30px;
+text-align: left;
+margin: 50px auto;
+}
+
+ .author_name_white { font-family:"Wellfleet"; margin: 70px 0 0 75px; color: #fff; font-size: 20px; }
+ .author_name_gray { font-family:"Wellfleet"; margin: 70px 0 0 75px; color: #94a4a4; font-size: 20px; }
+ .quotes_container { width: 800px; margin: 0 auto; }
+
+ #slide1, #slide2{ width: 100%; }
+#slide1{
+background:url('../img/american.jpg') 50% 0 no-repeat fixed;
+color: white;
+height: 600px;
+margin: 0;
+padding: 200px 0 260px 0;
+background-size: cover;
+}
+#slide2{
+background-color: #fff;
+color: #333333;
+height: 300px;
+margin: 0 auto;
+overflow: hidden;
+padding: 200px 0;
+padding-top: 2%;
+}
+#slide3{
+background: url('../img/girl.jpg') 50% 0 no-repeat fixed;
+color: green;
+height: 600px;
+padding: 170px 0 0 0;
+background-size: cover;
+padding-top: 2%;
+}
+
+#slide4{
+background-color: black;
+color:  blue;
+height: 300px;
+padding: 200px 0;
+}
+#slide5{
+background: url('../img/women.png') 50% 0 no-repeat fixed;
+height: 200px;
+margin: 0 auto;
+padding: 250px 0;
+color: red;
+background-size: cover;
+}
+#slide6{
+  background-color: #fff;
+  color: #333333;
+  height: 300px;
+  margin: 0 auto;
+  padding: 200px 0;
+  padding-top: 2%;
+}
+#slide7{
+background: url('../img/child.jpg') 50% 0 no-repeat fixed;
+height: 200px;
+margin: 0 auto;
+padding: 280px 0;
+color: black;
+background-size: cover;
+}
+#slide8{
+background-color: #fff;
+color: red;
+height: 300px;
+padding: 200px 0;
+padding-top: 10px;
+}
+#slide9{
+background: url('../img/torn_flag.jpeg') 50% 0 no-repeat fixed;
+height: 200px;
+margin: 0 auto;
+padding: 250px 0;
+color: white;
+background-size: cover;
+padding-bottom: 30px;
+}
+#slide10{
+background-color: #fff;
+color: #333333;
+height: 300px;
+padding: 200px 0;
+}
+#slide11{
+background: url('../img/trump.jpg') 50% 0 no-repeat fixed;
+height: 200px;
+margin: 0 auto;
+padding: 250px 0;
+color: blue;
+background-size: cover;
+}
+#slide12{
+background-color: #fff;
+color: #333333;
+height: 400px;
+
+}
+#slide13{
+background: url('../img/butterfly.jpg') 50% 0 no-repeat fixed;
+height: 200px;
+margin: 0 auto;
+padding: 250px 0;
+color: white;
+background-size: cover;
+}
+#slide14{
+background-color: #fff;
+color: #333333;
+height: 400px;
+
+}
+#slide15{
+background: url('../img/mexico.jpg') 50% 0 no-repeat fixed;
+height: 200px;
+margin: 0 auto;
+padding: 250px 0;
+color: #fff;
+background-size: cover;
+}
